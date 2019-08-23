@@ -1,8 +1,11 @@
 ### Import packages
 
-`import matplotlib.pyplot as plt`
+import matplotlib.pyplot as plt
 
-`from IPython.display import Image`
+from IPython.display import Image
+
+import pandas as pd
+import numpy as np
 
 ### 1. open the notebook with the CO2 data
 - last time we picked columns 0, 1 and 3. Choose this time columns 0, 1, 3 and 4.
